@@ -5,6 +5,8 @@ El desafío es desarrollar este componente de tarjeta de resumen de pedidos y lo
 - HTML
 - CSS
 
+![desktop-design](https://user-images.githubusercontent.com/112582420/188209346-1bdb31b6-9a0a-4366-ad33-ad79ec311a97.jpg)
+
 # Guía de Estilo
 
 ## Diseño
