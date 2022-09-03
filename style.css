@@ -140,6 +140,7 @@ body {
     box-shadow: 0 20px 20px 0px rgba(39, 10, 170, 0.17);
     cursor: pointer;
     letter-spacing: .015rem;
+    transition: all .2s ease-out;
 }
 
 .card_btn:hover {
@@ -150,6 +151,7 @@ a {
     color: hsl(245, 75%, 52%);
     font-weight: 700;
     font-size: .9rem;
+    transition: all .2s ease-out;
 }
 
 a:hover {
@@ -162,6 +164,7 @@ a:hover {
     text-decoration: none;
     font-weight: 700;
     font-size: .95rem;
+    transition: all .2s ease-out;
 }
 
 .btn_cancel:hover {
