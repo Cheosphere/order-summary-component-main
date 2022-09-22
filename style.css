@@ -12,6 +12,7 @@ body {
 }
 
 body {
+    min-height: 768px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -171,14 +172,6 @@ a:hover {
 }
 
 /* MEDIA QUERY */
-@media screen and (max-width: 680px) {
-
-    body {
-        min-height: 768px;
-    }
-
-}
-
 @media screen and (max-width: 450px) {
 
     .container {
